@@ -1,5 +1,5 @@
 <p>
   <samp>
-    :wave: Hay! :smile:
+    👋🏻 Hay! 😃
   </samp>
 </p>
